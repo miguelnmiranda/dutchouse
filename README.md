@@ -1,6 +1,6 @@
 # Dutch House
 
-Data visualization for a study regarding dutch auctions.
+Data visualization for a study regarding dutch auctions [link](http://miguelnmiranda.github.io/dutchouse).
 We used [D3.js](d3js.org) and [Crossfilter](square.github.io/crossfilter) to create this visualization. 
 
 ## License
